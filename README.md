@@ -1,4 +1,4 @@
-# **Изменение кнопки и механики работы аддона с Wishlist**
+# **Изменение кнопки и механики работы аддона AtlasLoot с Wishlist**
 
 *Это старый вид кнопки и окна, где имеется всего лишь один Wishlist*
 ![image](https://github.com/user-attachments/assets/523db394-e01e-4e06-95bf-402174eea1f5)
