@@ -19,5 +19,6 @@ L:RegisterTranslations("ruRU", function()
 		["Clean Wishlist"] = "Очистить",
 		["Cleaned Wishlist"] = "Очищен список желаний",
 		["Added new Wishlist"] = "Добавлен новый список желаний",
+		["Wishlist"] = "Список желаний",
 	};
 end)

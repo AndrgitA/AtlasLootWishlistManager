@@ -29,5 +29,6 @@ L:RegisterTranslations("enUS", function()
 		["Clean Wishlist"] = true,
 		["Cleaned Wishlist"] = true,
 		["Added new Wishlist"] = true,
+		["Wishlist"] = true,
 	};
 end)

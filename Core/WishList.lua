@@ -1,3 +1,5 @@
+local L = AceLibrary("AceLocale-2.2"):new("AtlasLootWishlistManager");
+
 ---Max count loot items in addon AtlasLoot
 local MAX_WISHLIST_ITEMS = 30;
 
@@ -20,6 +22,6 @@ end
 ---@return void
 function ALWM_OnClickAtlasLootItem()
 	if AtlasLootItemsFrame.refresh[1] == "WishList" then
-		AtlasLoot_BossName:SetText(AtlasLootCharDB.AtlasLootWishlistManagerDB.currentWishlistName);
+		AtlasLoot_BossName:SetText(L["Wishlist"].." "..AtlasLootCharDB.AtlasLootWishlistManagerDB.currentWishlistName);
   end
 end

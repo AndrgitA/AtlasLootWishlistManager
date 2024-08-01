@@ -213,7 +213,7 @@ function AtlasLootWishlistManager_ShowWishlist(name)
   end
 
   AtlasLootWishlistManager_WishlistsMenuUpdate();
-  AtlasLoot_ShowItemsFrame("WishList", "WishListPage"..0, name, pFrame);
+  AtlasLoot_ShowItemsFrame("WishList", "WishListPage"..0, L["Wishlist"].." "..name, pFrame);
 end
 
 ---Set new active Wishlist to addon AtlasLoot
