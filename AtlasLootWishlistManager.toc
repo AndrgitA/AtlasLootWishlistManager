@@ -1,0 +1,9 @@
+﻿## Interface: 11200
+## Title: AtlasLoot Wishlist Manager
+## Notes: Shows the possible loot from the bosses in multi wishlists
+## Author: Andrgit andrgit@mail.ru
+## Version: 1.0.0
+## RequiredDeps: AtlasLoot
+
+Locale\Locale.xml
+Core\AtlasLootWishlistManager.xml
